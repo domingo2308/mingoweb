@@ -1,0 +1,73 @@
+
+*{
+    margin: 15px;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+body{
+    width: auto;
+    height: 2900px;
+    text-align: center;
+    background-image:url(../imagenes/fodo.jpg);
+    background-repeat: no-repeat;
+    background-size: 10000px;
+    font: 1em sans-serif;
+    color:rgb(255, 255, 255);
+    border-color:hsl(239, 100%, 50%);
+}
+
+P,H1,H2,H3{
+    width: auto;
+}
+
+img{
+    width:300px;
+    border-width: 10px;;
+    border-color:rgb(47, 255, 147);
+    border-radius: 45%;
+}
+ 
+.h2{
+    width: auto;
+    text-align: center;
+    color:aliceblue;
+    font-size:40px;
+    margin-top: 37PX;
+}
+
+main{
+font-size: 20px;
+text-align: center;
+}
+
+.enlace1{
+    color:blue;
+}
+
+.lista{
+    text-align: center;
+    justify-content: center;
+    color:coral;
+}
+
+.facebook{
+    width: 25px;
+    text-align: center;
+    color:violet;   
+}
+
+.Instagram{
+      width: 35px;;
+      text-align: center;
+      color:violet;
+}
+
+.autor{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.logo{
+    width: 70px;
+}
